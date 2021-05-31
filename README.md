@@ -1,9 +1,9 @@
 # Tinder Clone
 
-I have tried to clone tinder app appearance.  
-I have hosted this web side on **Firebase Hosting**  
-The backend server is running on **Heroku**  
-**Mongo DB** is used as a database for data storage.  
+1. I have tried to clone tinder app appearance.  
+2. I have hosted this web side on **Firebase Hosting**.  
+3. The backend server is running on **Heroku**.  
+4. **Mongo DB** is used as a database for data storage.  
 
 [Tinder Clone Link](https://tinder-clone-6e5c8.web.app/)
 
